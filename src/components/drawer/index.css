@@ -1,0 +1,32 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #12b828;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+.drawer{
+
+}
+.menu_icon {
+  display: flex;
+  justify-content: end;
+  font-size: 20px;
+
+  margin-right: 50px;
+}
+.open {
+  display: block;
+}
+.closed {
+  display: none;
+}

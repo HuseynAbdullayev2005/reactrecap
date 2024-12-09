@@ -1,0 +1,19 @@
+.game_first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+   
+    margin-top: 200px;
+}
+
+.images img{
+    height: 100px;
+}
+.random_btn{
+    padding: 10px 20px;
+    background-color: green;
+    border: none;
+    border-radius: 8px;
+    color: white;
+}
